@@ -79,7 +79,7 @@ Replace placeholder images in `assets/images/`.
 4. Your site will be live at:  
    `https://your-username.github.io/modern-landing-page/`
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/modern-landing-page)
+
 
 ## Contributing
 
@@ -98,5 +98,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Your Name - [@toomeydev](https://x.com/toomeydev) - toomeyastephen@gmil.com
-
-Project Link: [https://github.com/your-username/modern-landing-page](https://github.com/your-username/modern-landing-page)
